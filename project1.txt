@@ -1,4 +1,35 @@
 Game name > CLT The Game
 
+---------------------------------------------------------------
+
 Estilo > RPG
+
+---------------------------------------------------------------
+
+Atributos e Status do personagem
+
+1. Gênero 
+    Masculino / Feminino / Sem gênero definido
+
+
+2. Área de atuação
+    TI
+    Saúde
+    Arquitetura / Engenharia
+
+
+3. Status sociais
+    Legal
+    Sexy
+    Confiável
+
+
+4. Status gerais
+    Saúde
+    Estresse
+    Sono
+    Humor
+
+
+
 
